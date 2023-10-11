@@ -1,8 +1,7 @@
 # Kelly's Portfolio
 Welcome to my portfolio! I have listed the summary of my projects in the table below.
-## Table of Contents
-- [School Projects](#School-Projects)
-- [Tableau](#Tableau)
+
+
 ## School Projects
 | Project Link | Tools | Project Description |
 |--------------|-------|---------------------|
@@ -13,5 +12,5 @@ Welcome to my portfolio! I have listed the summary of my projects in the table b
 |[Track Car Movement](https://github.com/kxychin/TrackCar.git)|Python, OpenCv|In this project, I utilized OpenCV and Python to detect and track moving cars in camera recordings. Leveraging frame differencing and background subtraction algorithms, dynamic green boxes were created around the moving cars. Furthermore, a car counting mechanism was implemented, specifically tracking car flow from the city's downtown to its center. These skills showcase expertise in computer vision and data analysis for traffic monitoring and analytics.|
 |[Video Format Conversion](https://github.com/kxychin/VideoFormat.git)|Python|In this project, I automated file format conversions using Python, FFprobe, and FFmpeg. This demonstrates expertise in scripting, video analysis, and format transformation for efficient file conversions.|
 
-## Tableau
+
 
